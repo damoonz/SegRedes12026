@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a82384b350d84f0f",
+            "id": "cbfea9ede07e5602",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/1-General Skills/30-Serpentine.md",
+                "file": "picoCTF/1-General Skills/40-ASCII Numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "30-Serpentine"
+              "title": "40-ASCII Numbers"
             }
           }
         ]
@@ -183,34 +183,35 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "a82384b350d84f0f",
+  "active": "cbfea9ede07e5602",
   "lastOpenFiles": [
-    "picoCTF/1-General Skills/29-PW Crack 3.md",
+    "picoCTF/plantilla.md",
+    "picoCTF/1-General Skills/40-ASCII Numbers.md",
+    "picoCTF/1-General Skills/39-binhexa.md",
+    "picoCTF/1-General Skills/38-Binary Search.md",
+    "picoCTF/1-General Skills/37-Collaborative Development.md",
+    "picoCTF/1-General Skills/36-Blame Game.md",
+    "picoCTF/1-General Skills/35-Time Machine.md",
+    "picoCTF/1-General Skills/34-Commitment Issues.md",
+    "picoCTF/1-General Skills/33-special.md",
+    "picoCTF/1-General Skills/31-Permissions.md",
+    "picoCTF/1-General Skills/32-chrono.md",
     "Pasted image 20260216085930.png",
-    "picoCTF/1-General Skills/28-PW Crack 2.md",
+    "lll.md",
+    "picoCTF/1-General Skills/21-Super SSH.md",
     "picoCTF/1-General Skills/30-Serpentine.md",
+    "picoCTF/1-General Skills/29-PW Crack 3.md",
+    "picoCTF/1-General Skills/28-PW Crack 2.md",
     "picoCTF/1-General Skills/27-PW Crack 1.md",
     "picoCTF/1-General Skills/26-fixme2.py.md",
     "picoCTF/1-General Skills/25-fixme1.py.md",
     "picoCTF/1-General Skills/24-convertme.py.md",
     "picoCTF/1-General Skills/23-Codebook.md",
     "picoCTF/1-General Skills/22-runme.py.md",
-    "picoCTF/1-General Skills/21-Super SSH.md",
     "picoCTF/1-General Skills/5-First Grep.md",
     "picoCTF/1-General Skills/20-First Find.md",
     "picoCTF/1-General Skills/19-Big Zip.md",
     "picoCTF/1-General Skills/18-repetitions.md",
-    "picoCTF/1-General Skills/17- Magikarp Ground Mission.md",
-    "picoCTF/1-General Skills/16-Tab, Tab, Attack.md",
-    "picoCTF/1-General Skills/15-useless.md",
-    "picoCTF/1-General Skills/14-Static ain't always noise.md",
-    "picoCTF/1-General Skills/13-Wave a flag.md",
-    "picoCTF/1-General Skills/12-strings it.md",
-    "picoCTF/1-General Skills/11-Based.md",
-    "Sin título.md",
-    "picoCTF/1-General Skills/10-Nice netcat....md",
-    "picoCTF/1-General Skills/9-Glitch Cat.md",
-    "picoCTF/1-General Skills/8-Plumbing.md",
     "picoCTF/1-General Skills",
     "picoCTF"
   ]
