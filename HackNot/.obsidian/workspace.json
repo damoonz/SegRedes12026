@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/1-General Skills/40-ASCII Numbers.md",
+                "file": "picoCTF/2-Web/6-Client-side-again.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "40-ASCII Numbers"
+              "title": "6-Client-side-again"
             }
           }
         ]
@@ -185,7 +185,16 @@
   },
   "active": "cbfea9ede07e5602",
   "lastOpenFiles": [
+    "picoCTF/2-Web/5-picobrowser.md",
+    "picoCTF/2-Web/6-Client-side-again.md",
     "picoCTF/plantilla.md",
+    "picoCTF/2-Web/4-dont-use-client-side.md",
+    "picoCTF/2-Web/3-logon.md",
+    "picoCTF/2-Web/2-where are the robots.md",
+    "picoCTF/2-Web/1-Insp3ct0r.md",
+    "picoCTF/1-General Skills/Sin título.md",
+    "picoCTF/2-Web",
+    "picoCTF/1-General Skills/Sin nombre",
     "picoCTF/1-General Skills/40-ASCII Numbers.md",
     "picoCTF/1-General Skills/39-binhexa.md",
     "picoCTF/1-General Skills/38-Binary Search.md",
@@ -205,13 +214,6 @@
     "picoCTF/1-General Skills/27-PW Crack 1.md",
     "picoCTF/1-General Skills/26-fixme2.py.md",
     "picoCTF/1-General Skills/25-fixme1.py.md",
-    "picoCTF/1-General Skills/24-convertme.py.md",
-    "picoCTF/1-General Skills/23-Codebook.md",
-    "picoCTF/1-General Skills/22-runme.py.md",
-    "picoCTF/1-General Skills/5-First Grep.md",
-    "picoCTF/1-General Skills/20-First Find.md",
-    "picoCTF/1-General Skills/19-Big Zip.md",
-    "picoCTF/1-General Skills/18-repetitions.md",
     "picoCTF/1-General Skills",
     "picoCTF"
   ]
