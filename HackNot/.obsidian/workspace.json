@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/picoCTF 2026/GS-SUDO MAKE ME A SANDWICH.md",
+                "file": "picoCTF/3-Forensic/21-Operation Oni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GS-SUDO MAKE ME A SANDWICH"
+              "title": "21-Operation Oni"
             }
           }
         ]
@@ -185,18 +185,24 @@
   },
   "active": "e27f270b9b665e3c",
   "lastOpenFiles": [
+    "picoCTF/3-Forensic/20-Operation Orchid.md",
+    "picoCTF/3-Forensic/21-Operation Oni.md",
+    "picoCTF/plantilla.md",
+    "picoCTF/3-Forensic/19-Sleuthkit Apprentice.md",
+    "picoCTF/3-Forensic/18-Sleuthkit Intro.md",
+    "picoCTF/3-Forensic/17-Disk, disk, sleuth!.md",
+    "picoCTF/3-Forensic/16-Milkslap.md",
+    "picoCTF/picoCTF 2026/GS-SUDO MAKE ME A SANDWICH.md",
     "picoCTF/picoCTF 2026/GS-Piece by Piece.md",
     "picoCTF/picoCTF 2026/01 - Old Sessions.md",
     "picoCTF/picoCTF 2026/02 - Credential Stuffing.md",
     "picoCTF/picoCTF 2026/bytemancy 0.md",
     "picoCTF/picoCTF 2026/MultiCode.md",
-    "picoCTF/picoCTF 2026/GS-SUDO MAKE ME A SANDWICH.md",
     "picoCTF/picoCTF 2026/bytemancy 1.md",
     "picoCTF/3-Forensic/15-MacroHard WeakEdge.md",
     "picoCTF/picoCTF 2026/bytemancy 1 (1).md",
     "picoCTF/3-Forensic/14-tunn3l v1s10n.md",
     "picoCTF/3-Forensic/13-Matryoshka doll.md",
-    "picoCTF/plantilla.md",
     "picoCTF/3-Forensic/12-Webnet1.md",
     "picoCTF/3-Forensic/11-WebNet0.md",
     "picoCTF/1-General Skills/31-Permissions.md",
@@ -205,12 +211,6 @@
     "picoCTF/2-Web/20-Local Authority.md",
     "picoCTF/2-Web/21-Power Cookie.md",
     "picoCTF/2-Web/18-Inspect HTML.md",
-    "picoCTF/2-Web/15-Trickster.md",
-    "picoCTF/2-Web/9-Scavenger Hunt.md",
-    "picoCTF/2-Web/1-Insp3ct0r.md",
-    "picoCTF/2-Web/2-where are the robots.md",
-    "picoCTF/2-Web/3-logon.md",
-    "picoCTF/1-General Skills/17-Magikarp Ground Mission.md",
     "picoCTF/picoCTF 2026",
     "picoCTF/1-General Skills/picoCTF 2026",
     "picoCTF/3-Forensic",
