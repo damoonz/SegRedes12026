@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/4-Crypto/28-Vigenere.md",
+                "file": "picoCTF/5-Reversing/5-vault-door-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "28-Vigenere"
+              "title": "5-vault-door-5"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "04028792bb9765b5",
@@ -185,6 +186,14 @@
   },
   "active": "c0410536c7978eaf",
   "lastOpenFiles": [
+    "picoCTF/5-Reversing/4-vault-door-4.md",
+    "picoCTF/5-Reversing/3-vault-door-3.md",
+    "picoCTF/5-Reversing/2-vault-door-1.md",
+    "picoCTF/5-Reversing/1-vault-door-training.md",
+    "picoCTF/5-Reversing/5-vault-door-5.md",
+    "picoCTF/plantilla.md",
+    "picoCTF/4-Crypto/28-Vigenere.md",
+    "picoCTF/5-Reversing",
     "picoCTF/4-Crypto/27-substitution2.md",
     "picoCTF/4-Crypto/26-substitution1.md",
     "picoCTF/4-Crypto/25-substitution0.md",
@@ -195,8 +204,6 @@
     "picoCTF/4-Crypto/20-credstuff.md",
     "picoCTF/4-Crypto/19-Crack the Power.md",
     "picoCTF/4-Crypto/18-Flags.md",
-    "picoCTF/4-Crypto/28-Vigenere.md",
-    "picoCTF/plantilla.md",
     "picoCTF/4-Crypto/17-ReadMyCert.md",
     "picoCTF/4-Crypto/16-HideToSee.md",
     "picoCTF/4-Crypto/15-basic-mod1.md",
@@ -206,11 +213,6 @@
     "picoCTF/4-Crypto/11-Mind your Ps and Qs.md",
     "picoCTF/4-Crypto/10-Mini RSA.md",
     "picoCTF/4-Crypto/9-rsa pop quiz (exp.py).md",
-    "picoCTF/4-Crypto/8-interencdec.md",
-    "picoCTF/4-Crypto/7-waves over lambda.md",
-    "picoCTF/4-Crypto/6-Tapping.md",
-    "picoCTF/4-Crypto/5-la cifra de.md",
-    "picoCTF/4-Crypto/4-Easy1.md",
     "picoCTF/4-Crypto",
     "picoCTF/examen 1/GS",
     "picoCTF/examen 1/web",
@@ -220,7 +222,6 @@
     "picoCTF/1-General Skills/picoCTF 2026",
     "picoCTF/3-Forensic",
     "picoCTF/2-Web",
-    "Pasted image 20260216085930.png",
-    "picoCTF/1-General Skills"
+    "Pasted image 20260216085930.png"
   ]
 }
