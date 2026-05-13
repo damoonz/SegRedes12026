@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/5-Reversing/5-vault-door-5.md",
+                "file": "picoCTF/5-Reversing/14-asm3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5-vault-door-5"
+              "title": "14-asm3"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "04028792bb9765b5",
@@ -186,12 +185,21 @@
   },
   "active": "c0410536c7978eaf",
   "lastOpenFiles": [
+    "picoCTF/5-Reversing/13-asm2.md",
+    "picoCTF/5-Reversing/12-asm1.md",
+    "picoCTF/5-Reversing/14-asm3.md",
+    "picoCTF/plantilla.md",
+    "picoCTF/5-Reversing/6.md",
+    "picoCTF/5-Reversing/11.md",
+    "picoCTF/5-Reversing/10.md",
+    "picoCTF/5-Reversing/9.md",
+    "picoCTF/5-Reversing/8.md",
+    "picoCTF/5-Reversing/7.md",
+    "picoCTF/5-Reversing/5-vault-door-5.md",
     "picoCTF/5-Reversing/4-vault-door-4.md",
     "picoCTF/5-Reversing/3-vault-door-3.md",
     "picoCTF/5-Reversing/2-vault-door-1.md",
     "picoCTF/5-Reversing/1-vault-door-training.md",
-    "picoCTF/5-Reversing/5-vault-door-5.md",
-    "picoCTF/plantilla.md",
     "picoCTF/4-Crypto/28-Vigenere.md",
     "picoCTF/5-Reversing",
     "picoCTF/4-Crypto/27-substitution2.md",
@@ -204,15 +212,6 @@
     "picoCTF/4-Crypto/20-credstuff.md",
     "picoCTF/4-Crypto/19-Crack the Power.md",
     "picoCTF/4-Crypto/18-Flags.md",
-    "picoCTF/4-Crypto/17-ReadMyCert.md",
-    "picoCTF/4-Crypto/16-HideToSee.md",
-    "picoCTF/4-Crypto/15-basic-mod1.md",
-    "picoCTF/4-Crypto/14-Pixelated.md",
-    "picoCTF/4-Crypto/13-b00tl3gRSA3.md",
-    "picoCTF/4-Crypto/12-b00tl3gRSA2.md",
-    "picoCTF/4-Crypto/11-Mind your Ps and Qs.md",
-    "picoCTF/4-Crypto/10-Mini RSA.md",
-    "picoCTF/4-Crypto/9-rsa pop quiz (exp.py).md",
     "picoCTF/4-Crypto",
     "picoCTF/examen 1/GS",
     "picoCTF/examen 1/web",
